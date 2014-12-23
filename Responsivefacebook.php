@@ -204,7 +204,7 @@ box-shadow:         1px 1px 23px 0px rgba(57, 53, 50, 0.7);
 <?php } else {}?>
 ">
   <div class="fb-like-box" data-href="<?php echo $fb_url;?>" data-colorscheme="light"    data-show-faces="<?php echo $face;?>" data-stream="<?php echo $post;?>" data-header="<?php echo $header;?>" data-show-border="<?php echo $border;?>"></div>
-<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.carriebowman.com/' title='visit the website' target='_blank'>Dallas Life Coach</a></div>
+<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.allpromotionalapparel.com/' title='Click Here' target='_blank'>Logo Polo Shirts</a></div>
 </div>
 
 <div id="fb-root"></div>
